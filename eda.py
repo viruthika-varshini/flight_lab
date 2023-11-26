@@ -18,16 +18,6 @@ def runEDA():
     #Sub Header
     st.subheader('EDA for Flight Price Prediction')
 
-    #Description
-    st.write('Page Created by Gilang Wiradhyaksa (SBY-001)')
-
-    st.markdown('---')
-
-    '''
-    On this Page we will do a simple exploration,
-    Database Used is Flight Price Prediction.
-    Dataset Source is from Kaggle
-    '''
 
     #show dataframe
     st.title('Dataset')
